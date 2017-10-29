@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="commtypes">
+        <item>01234567</item>
+        <item>45670123</item>
+        <item>76543210</item>
+        <item>32107654</item>
+    </string-array>
+</resources>
